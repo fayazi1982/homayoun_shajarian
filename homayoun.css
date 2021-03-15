@@ -1,0 +1,51 @@
+h2{
+	background-color:DodgerBlue;
+	 color: white ;
+	 text-align: center ;
+}
+
+ img {
+  border-radius: 30%;
+  
+
+}
+
+.header{
+	padding: 50px;
+	text-align: center; 
+	background: DodgerBlue;
+	color:white;
+}
+
+ .textblock {
+ 	border: solid;
+ 	padding:10px;
+ 	margin: 20px;
+   	float:right;
+
+ }
+ .picblock {
+ 	padding:15px;
+ 	float:left;
+
+ }
+
+.music {
+	padding: 25px;
+	float: center ;    
+}
+
+ footer{
+ 	padding: 20px;
+ 	text-align: center; 
+ 	background: DodgerBlue;
+ 	color: white ;
+ }
+
+
+
+
+
+
+ 
+
